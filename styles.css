@@ -1,1 +1,9 @@
 /* css styles */
+
+.introduction {
+  padding: 0 30px;
+  text-indent: 40px;
+  text-align:justify;
+  text-justify: inter-word;
+  line-height: 1.5;
+}
