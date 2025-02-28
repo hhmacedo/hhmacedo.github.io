@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hugo Macedo",
+    "section": "",
+    "text": "Personal\nName:\nHugo Macedo\nPronouns:\nhe/him\nCurrent City:\nRio de Janeiro, Brazil\n\n\n\n \n\n\n\nEducation\nPh.D. in Demography (2025 - expected)\nM.Sc. in Population, Territory and Public Statistics (2019)\nB.Sc. in Economics (2017)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hugo Macedo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "Hello, my name is Hugo, and I am a researcher at the Institute for Applied Economic Research, where I primarily work on the Atlas of the Brazilian State. My main interests include social inequality and enhancing access to data, and I believe that science evolves through transparency. Therefore, you can expect to see me promoting and engaging with open-source and open access initiatives."
   }
 ]
