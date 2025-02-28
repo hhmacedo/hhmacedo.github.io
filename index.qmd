@@ -1,7 +1,5 @@
----
-title: "Hugo Macedo"
----
+![](img/me.png){width="15em" style="padding: 30px 0" fig-align="center"}
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.introduction}
+Hello, my name is Hugo, and I am a researcher at the [Institute for Applied Economic Research](https://www.ipea.gov.br), where I primarily work on the [Atlas of the Brazilian State](https://www.ipea.gov.br/atlasestado). My main interests include social inequality and enhancing access to data, and I believe that science evolves through transparency. Therefore, you can expect to see me promoting and engaging with open-source and open access initiatives.
+:::

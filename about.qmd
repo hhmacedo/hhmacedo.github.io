@@ -1,5 +1,37 @@
 ---
-title: "About"
+include-in-header:
+  text: |
+    <style type="text/css">
+    img {
+      opacity: 0.5;
+    }
+    img:hover {
+      opacity: 1.0;
+    }
+    </style>
 ---
 
-About this site
+![](me2.png){width="100%" fig-align="center"}
+
+:::: {layout="[45,-10,45]"}
+
+::: {#first-column}
+### Personal
+
+**Name:**\
+Hugo Macedo\
+**Pronouns:**\
+he/him\
+**Current City:**\
+Rio de Janeiro, Brazil
+:::
+
+::: {#second-column}
+### Education
+
+Ph.D. in Demography (2025 - expected)\
+M.Sc. in Population, Territory and Public Statistics (2019)\
+B.Sc. in Economics (2017)
+:::
+
+::::

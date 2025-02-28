@@ -3,17 +3,17 @@ project:
 
 website:
   title: "Hugo Macedo"
+  search: false
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
 
 
